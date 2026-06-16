@@ -1,0 +1,22 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Estado del espacio de trabajo de Obsidian
+# Ignoramos estos archivos porque guardan qué notas tenés abiertas vos en tu PC.
+# Si no los ignoramos, cada vez que vos abras una nota y tu socio abra otra,
+# Git les va a tirar un "merge conflict" molesto.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+.obsidian/workspace-mobile
+
+# Archivos temporales o de caché
+*~
+*.tmp
+*.bak
+.trash/
+
+# (Opcional) Si en el futuro arman scripts de Node.js adentro de la bóveda
+node_modules/

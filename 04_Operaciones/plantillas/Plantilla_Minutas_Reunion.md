@@ -1,0 +1,20 @@
+# 📅 [YYYY-MM-DD] - Reunión Semanal de Socios
+
+**Asistentes:** [Nombres]
+**Grabación / Transcripción:** [Link al audio o al resumen generado por Whisper/Claude]
+
+## 🎯 Objetivos de la reunión (Agenda)
+*   Revisar el estado de las tareas de la semana pasada.
+*   *Agregar temas a discutir antes de la reunión...*
+
+## 📝 Resumen (Generado por IA)
+*Pegar aquí el resumen generado por la transcripción. La IA debe extraer: Decisiones clave y Problemas bloqueantes.*
+
+## ✅ Action Items (Tareas Asignadas)
+*Lo que surge de la reunión. Si algo se anota acá, debe ir inmediatamente al tablero de Trello/ClickUp.*
+- [ ] Tarea 1 -> @Responsable
+- [ ] Tarea 2 -> @Responsable
+
+## 🧠 Ideas sueltas / "Bandeja de entrada"
+*Cosas que surgieron pero no son urgentes ni tareas accionables para esta semana.*
+- ...
