@@ -1,4 +1,7 @@
 {
   "attachmentFolderPath": "./Utils",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Daily",
+  "openBehavior": "file:README"
 }
